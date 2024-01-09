@@ -10,7 +10,7 @@
 
 ### :woman_technologist: About Me :
 
--  :telescope: I am a front end developer trying to break into the world of Cloud.
+-  :telescope: My name is Chidera Johnson and I am a front end developer trying to break into the world of Cloud ☁️.
 -  :seedling: I sometimes write technical articles and you can find my articles on [dev to](https://dev.to/dera_johnson).
 -  :mailbox: You can reach out to me via gmail: derajohnson64@gmail.com
 
