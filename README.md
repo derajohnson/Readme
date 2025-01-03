@@ -10,8 +10,8 @@
 
 ### :woman_technologist: About Me :
 
--  :telescope: My name is Chidera Johnson and I am a front end developer trying to break into the world of Cloud ☁️.
--  :seedling: I sometimes write technical articles and you can find my articles on [dev to](https://dev.to/dera_johnson) and I also write about my cloud journey on [medium](https://medium.com/@johnsonchidera).
+-  :telescope: My name is Chidera Johnson and I am a software engineer.
+-  :seedling: I sometimes write technical articles and you can find my articles on [dev to](https://dev.to/dera_johnson)
 -  :mailbox: You can reach out to me via gmail: derajohnson64@gmail.com
 
 ---
@@ -27,6 +27,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" **alt="Azure" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg" title="Nextjs" **alt="Nextjs" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwindcss" **alt="Tailwindcss" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" **alt="Go" width="40" height="40"/>
+
 </div>
 
 ---
